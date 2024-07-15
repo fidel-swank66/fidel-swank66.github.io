@@ -6,6 +6,8 @@ gemspec
 
 group :test do
   gem "html-proofer", "~> 3.16"
+  gem "csv"
+
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
